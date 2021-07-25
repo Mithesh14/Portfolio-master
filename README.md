@@ -86,5 +86,5 @@ $ npm start
 
 ## Contact
 
-- Website [Mithesh](https://{mithesh14.netlify.app/})
-- GitHub [@Mithesh14](https://{github.com/Mithesh14})
+- Website [Mithesh](https://mithesh14.netlify.app/)
+- GitHub [@Mithesh14](https://github.com/Mithesh14)
