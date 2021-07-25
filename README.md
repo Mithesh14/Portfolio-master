@@ -43,7 +43,7 @@
 
 ### Mobile View
 
-![screenshot](https://github.com/Mithesh14/Portfolio-master/blob/main/images/mobileview.png)
+![screenshot](https://github.com/Mithesh14/Portfolio-master/blob/main/images/mobileview.png{width=40px height=400px})
 
 
 ### Built With
