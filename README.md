@@ -8,11 +8,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://{https://github.com/Mithesh14/Portfolio-master}">
+    <a href="https://github.com/Mithesh14/Portfolio-master">
       Demo
     </a>
     <span> | </span>
-    <a href="https://{your-url-to-the-solution}">
+    <a href=https://mithesh14.github.io/Portfolio-master/">
       Solution
     </a>
     <span> | </span>
