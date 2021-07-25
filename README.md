@@ -43,7 +43,7 @@
 
 ### Mobile View
 
-![screenshot](https://github.com/Mithesh14/Portfolio-master/blob/main/images/mobileview.png = 250x250)
+![screenshot](https://github.com/Mithesh14/Portfolio-master/blob/main/images/mobileview.png)
 
 
 ### Built With
